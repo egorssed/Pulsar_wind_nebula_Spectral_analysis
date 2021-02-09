@@ -1,4 +1,7 @@
-# Pulsar_wind_nebula_Spectral_analysis
+# Pulsar wind nebula spectral analysis
+
+Some result obtained from emmission of PWN G21.5 -0.9
+
 
 ## Data
 https://heasarc.gsfc.nasa.gov/db-perl/W3Browse/w3table.pl?tablehead=name%3Dnumaster&Action=More+Options
