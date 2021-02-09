@@ -4,7 +4,7 @@ Spectral analysis of PWN G21.5 -0.9 emission
 
 
 ## Data
-https://heasarc.gsfc.nasa.gov/db-perl/W3Browse/w3table.pl?tablehead=name%3Dnumaster&Action=More+Options
+https://heasarc.gsfc.nasa.gov/FTP/nustar/data/obs/00/1//10002014003/
 Obsid: 10002014003
 
 ## Based on paper
