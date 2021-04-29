@@ -1,6 +1,6 @@
 # Pulsar wind nebula spectral analysis
 
-Spectral analysis of PWN G21.5 -0.9 emission
+Results of spectral analysis of PWN G21.5 -0.9 emission
 
 
 ## Data
