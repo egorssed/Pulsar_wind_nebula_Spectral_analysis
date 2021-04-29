@@ -31,5 +31,5 @@ https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/nustar_quickstart_guide.pdf
 
 <figure>
   <figtitle>Fits of spectrum with different models</figtitle>
-  <img src="./ApproxRes_mine.jpg" width="1000" height="250">
+  <img src="./ApproxRes_mine.jpg" width="750" height="190">
 </figure>
