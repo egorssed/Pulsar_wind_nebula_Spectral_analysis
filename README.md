@@ -31,6 +31,5 @@ https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/nustar_quickstart_guide.pdf
 
 <figure>
   <figtitle>Fits of spectrum with different models</figtitle>
-  <img src="./ApproxRes_mine.jpg" width="500" height="125">
-   <figcaption>Solid line - homogeneous magnetic field. Dash, dash-dotted lines - limits for magnetic field in cluster's center for inhomogeneous field case</figcaption>
+  <img src="./ApproxRes_mine.jpg" width="1000" height="250">
 </figure>
